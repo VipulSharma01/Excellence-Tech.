@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="html_topics">
+        <item>"HTML Introduction"</item>
+        <item>"HTML Editors"</item>
+        <item>"HTML Basic"</item>
+        <item>"HTML Elements"</item>
+        <item>"HTML Attributes"</item>
+        <item>"HTML Headings"</item>
+        <item>"HTML Paragraphs"</item>
+        <item>"HTML Formatting"</item>
+        <item>"HTML Links"</item>
+        <item>"HTML Head"</item>
+        <item>"HTML CSS"</item>
+        <item>"HTML Images"</item>
+        <item>"HTML Tables"</item>
+        <item>"HTML Layout"</item>
+        <item>"HTML Forms"</item>
+        <item>"HTML Iframes"</item>
+        <item>"HTML List"</item>
+        <item>"HTML Block"</item>
+        <item>"HTML Colors"</item>
+        <item>"HTML Colornames"</item>
+        <item>"HTML Colorvalues"</item>
+        <item>"HTML JavaScript"</item>
+        <item>"HTML Entities"</item>
+        <item>"HTML URL Encode"</item>
+        <item>"HTML Quick List"</item>
+        <item>"HTML Summary"</item>
+    </string-array>
+
+    <string-array name="java_topics">
+        <item>"Java Introduction"</item>
+        <item>"Java Print"</item>
+        <item>"Java Basics"</item>
+        <item>"Java Variables"</item>
+        <item>"Java Data Types"</item>
+        <item>"Java Input"</item>
+        <item>"Java Operators"</item>
+        <item>"Java If and Else"</item>
+        <item>"Java Switch"</item>
+        <item>"Java Loops"</item>
+        <item>"Java Break and Continue"</item>
+        <item>"Java Methods"</item>
+        <item>"Java Method Overloading"</item>
+        <item>"Java Array"</item>
+        <item>"Java Strings"</item>
+        <item>"Java String Methods and Operations"</item>
+        <item>"Java Object Oriented Programming"</item>
+        <item>"Java Classes and Objects"</item>
+        <item>"Java Array of Objects"</item>
+        <item>"Java Constructor Overloading"</item>
+        <item>"Java Access Modifiers"</item>
+        <item>"Java Inheritance"</item>
+        <item>"Java Method Overriding"</item>
+        <item>"Java super Keyword"</item>
+        <item>"Java Abstraction"</item>
+        <item>"Java Abstract class"</item>
+        <item>"Java Interface"</item>
+        <item>"Java Encapsulation"</item>
+        <item>"Java static Keyword"</item>
+        <item>"Java this Keyword"</item>
+        <item>"Java final Keyword"</item>
+        <item>"Java Errors and Exceptions"</item>
+        <item>"Java Exception Handling"</item>
+        <item>"Java Throw and Throws"</item>
+        <item>"Java Assertion"</item>
+        <item>"Java File Handling"</item>
+        <item>"Java Wrapper Classes"</item>
+        <item>"Java Collection Framework"</item>
+        <item>"Java ArrayList"</item>
+        <item>"Java Iterator"</item>
+        <item>"Java Nested Classes"</item>
+        <item>"Java Lambda Expressions"</item>
+        <item>"Java Annotations"</item>
+    </string-array>
+
+    <string-array name="python_topics">
+        <item>"Python Introduction"</item>
+        <item>"Python Print"</item>
+        <item>"Python Basics"</item>
+        <item>"Python Variables"</item>
+        <item>"Python Data Types"</item>
+        <item>"Python Input"</item>
+        <item>"Python Operators"</item>
+        <item>"Python If and Else"</item>
+        <item>"Python While Loop"</item>
+        <item>"Python For Loop"</item>
+        <item>"Python Break and Continue"</item>
+        <item>"Python Lists"</item>
+        <item>"Python List Comprehension"</item>
+        <item>"Python Strings"</item>
+        <item>"Python Tuples"</item>
+        <item>"Python Dictionary"</item>
+        <item>"Python Dictionary Comprehension"</item>
+        <item>"Python Sets"</item>
+        <item>"Python Functions"</item>
+        <item>"Python Fixed Variable Argument"</item>
+        <item>"Python OOP"</item>
+        <item>"Python Classes and Objects"</item>
+        <item>"Python Instance Class and Static Method"</item>
+        <item>"Python Subclass of a Class"</item>
+        <item>"Python Multiple Inheritance"</item>
+        <item>"Python Method Overriding and MRO"</item>
+        <item>"Python Errors and Exceptions"</item>
+        <item>"Python Exception Handling"</item>
+        <item>"Python Raising Exceptions"</item>
+        <item>"Python Assert"</item>
+        <item>"Python Files Handling"</item>
+        <item>"Python Iterators"</item>
+        <item>"Python String Formatting"</item>
+        <item>"Python Lambda Functions"</item>
+        <item>"Python Nested Functions"</item>
+        <item>"Python Scope of Variables"</item>
+        <item>"Python Closures"</item>
+        <item>"Python Decorators"</item>
+        <item>"Python Docstrings"</item>
+    </string-array>
+
+    <string-array name="css_topics" >
+        <item>"CSS Basic"</item>
+        <item>"CSS HOME"</item>
+        <item>"CSS Introduction"</item>
+        <item>"CSS Syntax"</item>
+        <item>"CSS Id &amp; Class"</item>
+        <item>"CSS How To"</item>
+        <item>"CSS Backgrounds"</item>
+        <item>"CSS Text"</item>
+        <item>"CSS Fonts"</item>
+        <item>"CSS Links"</item>
+        <item>"CSS Lists"</item>
+        <item>"CSS Tables"</item>
+        <item>"CSS Box Model"</item>
+        <item>"CSS Border"</item>
+        <item>"CSS Outline"</item>
+        <item>"CSS Margin"</item>
+        <item>"CSS Padding"</item>
+        <item>"CSS Grouping/Nesting"</item>
+        <item>"CSS Dimension"</item>
+        <item>"CSS Display"</item>
+        <item>"CSS Positioning"</item>
+        <item>"CSS Floating"</item>
+        <item>"CSS Align"</item>
+        <item>"CSS Pseudo-class"</item>
+        <item>"CSS Pseudo-element"</item>
+        <item>"CSS Navigation Bar"</item>
+        <item>"CSS Image Gallery"</item>
+        <item>"CSS Image Opacity"</item>
+        <item>"CSS Image Sprites"</item>
+        <item>"CSS Media Types"</item>
+        <item>"CSS Attr Selectors"</item>
+        <item>"CSS3 Introduction"</item>
+        <item>"CSS3 Borders"</item>
+        <item>"CSS3 Backgrounds"</item>
+    </string-array>
+
+    <string-array name="js_topics" >
+        <item>"What is JavaScript"</item>
+        <item>"Understanding Events"</item>
+        <item>"JavaScript Example"</item>
+        <item>"External JavaScript"</item>
+        <item>"Comment"</item>
+        <item>"Variable"</item>
+        <item>"Global Variable"</item>
+        <item>"Data Types"</item>
+        <item>"operators"</item>
+        <item>"If Statement"</item>
+        <item>"Switch"</item>
+        <item>"Loop: for and while"</item>
+        <item>"Function"</item>
+        <item>"JavaScript objects"</item>
+        <item>"JavaScript Array"</item>
+    </string-array>
+
+    <string-array name="react_topics" >
+        <item>"IntroDuction"</item>
+        <item>"React Versions"</item>
+        <item>"Installation"</item>
+        <item>"Create React App"</item>
+        <item>"Features"</item>
+        <item>"Pros and Cons"</item>
+        <item>"React JSX"</item> 
+        <item>"Components"</item>
+        <item>"State" </item>
+        <item>"Props"</item> 
+        <item>"State Props"</item>
+        <item>"Constructor"</item> 
+        <item>"React Router"</item>
+        <item>"React Bootstrap"</item>
+        <item>"Hooks"</item>
+    </string-array>
+
+    <string-array name="php_topics" >
+        <item>"Home"</item>
+        <item>"Introduction"</item>
+        <item>"Environment"</item>
+        <item>"Synctax"</item>
+        <item>"Variables"</item>
+        <item>"Constants"</item>
+        <item>"Operators"</item>
+        <item>"Control Statement"</item>
+        <item>"Loops"</item>
+        <item>"Arrays"</item>
+        <item>"String"</item>
+        <item>"Web"</item>
+        <item>"GET / POST"</item>
+        <item>"File inclusion"</item>
+        <item>"File I/O"</item>
+        <item>"Functions"</item>
+        <item>"Cookies"</item>
+        <item>"Sessions</item>
+        <item>"Sending mails"</item>
+        <item>"File uploading"</item>
+        <item>"Coding"</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/contact_illus"
+            android:layout_margin="16dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginHorizontal="36dp"
+        android:orientation="vertical">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/callbtn"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Call us"
+            android:textSize="18sp"
+            android:backgroundTint="@color/darker"
+            app:icon="@drawable/phone_24"
+            app:iconPadding="0dp"
+            app:iconSize="24dp"
+            android:padding="20dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/wabtn"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Text us"
+            android:textSize="18sp"
+            android:backgroundTint="@color/darker"
+            app:icon="@drawable/whatsapp_logo"
+            app:iconPadding="0dp"
+            app:iconSize="24dp"
+            android:padding="20dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/mailbtn"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mail us"
+            android:textSize="18sp"
+            android:backgroundTint="@color/darker"
+            app:icon="@drawable/email_24"
+            app:iconPadding="0dp"
+            app:iconSize="24dp"
+            android:padding="20dp"/>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/mapbtn"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Visit us"
+            android:textSize="18sp"
+            android:backgroundTint="@color/darker"
+            app:icon="@drawable/location_24"
+            app:iconPadding="0dp"
+            app:iconSize="24dp"
+            android:padding="20dp"/>
+
+    </LinearLayout>
+
+
+
+    </LinearLayout>

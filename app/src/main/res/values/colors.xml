@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_bg">#bababa</color>
+
+<!--    <color name="lightest">#D4ECDD</color>-->
+<!--    <color name="lighter">#7CD1B8</color>-->
+<!--    <color name="darker">#244651</color>-->
+<!--    <color name="darkest">#152D35</color>-->
+
+    <!-- Shades of Green -->
+    <color name="lightest">#E8F5E9</color>
+    <color name="lighter">#addfad</color>
+    <color name="darker">#244651</color>
+    <color name="darkest">#0C2004</color>
+    
+    
+    <color name="platinum">#E5E5E5</color>
+    <color name="yellow">#FFCB57</color>
+    <color name="oxford_blue">#14213D</color>
+
+    <color name="pink">#FFDFD6</color>
+    <color name="aqua">#5AE2E2</color>
+    <color name="blue">#52C3FF</color>
+    <color name="pinkish">#FC77A0</color>
+    <color name="colorWhitePageBgDN">#FFFFFF</color>
+</resources>

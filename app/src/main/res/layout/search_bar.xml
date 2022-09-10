@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/search_bar"
+        style="@style/SearchBarStyle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1">
+        <Toolbar
+            android:id="@+id/search_action_bar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/search_bar_height"
+            android:background="#fff"
+            android:paddingStart="4dp"
+            android:contentInsetStartWithNavigation="@dimen/search_bar_content_inset"
+            android:navigationIcon="@drawable/ic_homepage_search">
+            <TextView
+                android:id="@+id/search_action_bar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start"
+                android:textColor="#5B5B5B"
+                android:text="@string/search_menu"/>
+        </Toolbar>
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

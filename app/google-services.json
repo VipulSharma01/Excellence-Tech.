@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619125917196",
+    "firebase_url": "https://excellence-technology-default-rtdb.firebaseio.com",
+    "project_id": "excellence-technology",
+    "storage_bucket": "excellence-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619125917196:android:fa02e73bdf8334d4b71029",
+        "android_client_info": {
+          "package_name": "com.excellencetechnology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619125917196-icn0vg95fvsn4gvbnahtpijqgi2pute6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.excellencetechnology",
+            "certificate_hash": "e25e585af80c49696e41986a41875d9b20b8e0f4"
+          }
+        },
+        {
+          "client_id": "619125917196-efv9hta7ddoqs8iakdlukr969d4o8fph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX6XLgO11DihmoHLdXIaIVAVBi9UEMUHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619125917196-efv9hta7ddoqs8iakdlukr969d4o8fph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
